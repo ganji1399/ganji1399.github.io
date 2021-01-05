@@ -1,5 +1,5 @@
 # ganji1399.github.io
-[EN](resume-EN.md)<a class="pt-trigger" href="resume-EN" data-animation="62"> <img src="img/en.png" width="20" height="20"/></a>
+[EN](readme.md)<a class="pt-trigger" href="resume-EN" data-animation="62"> <img src="img/en.png" width="20" height="20"/></a>
 
 <html lang="fa">
 
