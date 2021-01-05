@@ -5,15 +5,15 @@
 
 <head>
     <meta http-equiv="content-type" content="text/html; charset=UTF-8">
-    <meta property="og:title" content="سید امین حسینی">
+    <meta property="og:title" content="حمید رضا گنجی">
     <meta property="og:type" content="website">
     <meta property="og:image:width" content="400">
     <meta property="og:image:height" content="400">
-    <meta property="og:image:alt" content="سید امین حسینی">
+    <meta property="og:image:alt" content="حمید رضا گنجی">
     <meta charset="utf-8">
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
     <link rel="stylesheet" href="desktop.css">
-    <title>رزومه آنلاین سید امین حسینی</title>
+    <title>رزومه حمید رضا گنجی</title>
 </head>
 
 <body class="" cz-shortcut-listen="true">
@@ -32,7 +32,7 @@
                                 <img class="img-thumbnail" src="myimage.png">
                             </div>
                             <div class="user-info di-ltr">
-                                <h1 id="name">سید امین حسینی</h1>
+                                <h1 id="name">حمید رضا گنجی</h1>
                                 <div class="col-xs-12">
                                     <div class="row">
                                         <p class="ltr-pull-left ltr-m-r-5 ltr-m-l-0 pull-right">
@@ -46,7 +46,7 @@
                                         <p class="ltr-pull-left ltr-m-r-5 ltr-m-l-0 pull-right">
                                             وضعیت تاهل :
                                         </p>
-                                        <span class="ltr-pull-left">مجرد</span>
+                                        <span class="ltr-pull-left">متاهل</span>
                                     </div>
                                 </div>
                                 <div class="col-xs-12">
@@ -63,7 +63,7 @@
                                             شماره همراه :
                                         </p>
                                         <span class="ltr-pull-left">
-                                            ۰۹۳۰۸۳۶۱۴۲۰
+                                            09387645741
                                         </span>
                                     </div>
                                 </div>
@@ -73,7 +73,7 @@
                                             شماره تلفن :
                                         </p>
                                         <span class="ltr-pull-left">
-                                            ۵۵۸۵۰۲۲۳
+                                            021-36474849
                                         </span>
                                     </div>
                                 </div>
@@ -83,7 +83,7 @@
                                             ایمیل :
                                         </p>
                                         <span class="ltr-pull-left">
-                                         <a href="https://mail.google.com/">a.hosseini2008@gmail.com </a>
+                                         <a href="https://mail.yahoo.com/">ganji_hr2008@yahoo.com </a>
                                         </span>
                                     </div>
                                 </div>
@@ -119,8 +119,8 @@
                                     <div class="m-b-10 clearfix">
                                         <i class="fa fa-envelope ltr-pull-left ltr-m-l-0 ltr-m-r-10"></i>
                                         <span class="ltr-pull-left">
-                                           <a href="https://mail.google.com/">a.hosseini2008@gmail.com </a></br>
-                                           <a href="https://github.com/aminh58/PNU_3991_AR">Github</a></br>
+                                           <a href="https://mail.yahoo.com/">ganji_hr2008@yahoo.com </a></br>
+                                           <a href="https://github.com/ganji1399/PNU_3991_AR">Github</a></br>
                                         <p><a href="/en.html"></a><a class="pt-trigger" href="en.html" data-animation="62"> <img src="flag/en.png" width="20" height="20" /></a></p>
                                         </span>
                                     </div>
@@ -157,7 +157,7 @@
                                             <h5>IT</h5>
                                             <span>کاردانی</span>
                                             <span class="">
-                                                دانشگاه علمی کاربرد _ سازمان مدیرت صنعتی
+                                                دانشگاه آزاد اسلامی واحد جنوب
                                             </span>
                                         </div>
                                         <div class="education-info m-b-10">
@@ -181,7 +181,7 @@
                                 <ul class="parent list-unstyled">
                                     <li>
                                         <div class="job-info">
-                                            <h5>بیمارستان خصوصی نیمه شعبان</h5>
+                                            <h5>مدرس زبان و کامپیوتر</h5>
                                             <span class="branch_label">
                                                 کارشناس
                                             </span>
@@ -198,7 +198,7 @@
                                 <ul class="parent list-unstyled">
                                     <li>
                                         <div class="job-info">
-                                            <h5>مجتمع فنی تهران</h5>
+                                            <h5>مجتمع فنی فکر آفرین</h5>
                                             <span class="branch_label">
                                             </span>
                                             <span class="">تدریس +A و برنامه نویسی و ICDL</span>
@@ -214,7 +214,7 @@
                                 <ul class="parent list-unstyled">
                                     <li>
                                         <div class="job-info">
-                                            <h5>همکاری با بانکهای سپه، ملی، ملت، تجارت و کشاورزی</h5>
+                                            <h5>همکاری با آموزشگاههای آزاد و مدارس</h5>
                                             <span class="branch_label">
                                             </span>
                                             <span class="">آموزش، نگهداری و عیب یابی شبکه و سخت افزار</span>
@@ -230,7 +230,7 @@
                                 <ul class="parent list-unstyled">
                                     <li>
                                         <div class="job-info">
-                                            <h5>مراکز آموزشی و درمانی دانشگاه علوم پزشکی</h5>
+                                            <h5>مراکز آموزشی و خدماتی</h5>
                                             <span class="branch_label">
                                             </span>
                                             <span class="">آموزش، نگهداری و عیب یابی شبکه و سخت افزا</span>
@@ -258,19 +258,19 @@
                                         <span class="duration">
                                             ۱۳۸۷
                                         </span>
-                                        <div class="record-info">تدریس کارگاه شبکه و اینترنت - سازمان مدیریت صنعتی</div>
+                                        <div class="record-info">تدریس کارگاه شبکه و اینترنت - بنیاد مستضعفان</div>
                                     </li>
                                     <li>
                                         <span class="duration">
                                             ۱۳۸۶
                                         </span>
-                                        <div class="record-info">تدریس سخت افزار - دانشگاه علم و فن آوری مازندران</div>
+                                        <div class="record-info">تدریس سخت افزار - دانشگاه تربیت مدرس</div>
                                     </li>
                                     <li>
                                         <span class="duration">
                                             ۱۳۸۵
                                         </span>
-                                        <div class="record-info">تدریس ICDL - پژوهشکده اکولوژی دریای خزر</div>
+                                        <div class="record-info">تدریس ICDL - شهرداری تهران</div>
                                     </li>
                                 </ul>
                             </div>
@@ -316,7 +316,7 @@
                                 </div>
                                 <ul class="parent list-unstyled">
                                     <li>
-                                        دانشجوی ممتاز دانشگاه سازمان مدیرت صنعتی دوره کاردانی (معدل 19.53)
+                                        دانشجوی ممتاز دانشگاه آزاد واحد جنوب دوره کاردانی (معدل 18.53)
                                         / <span>۱۳۸۶</span>
                                     </li>
                                 </ul>
